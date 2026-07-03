@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time: 15000 | PC:         12 | INSN: 00002083 | ALU_Out:          0 | RegWrite: 1 | ResultSrc: 01
+Time: 25000 | PC:         16 | INSN: fe000ae3 | ALU_Out:          0 | RegWrite: 0 | ResultSrc: xx
+Time: 35000 | PC:          4 | INSN: 00108133 | ALU_Out:         84 | RegWrite: 1 | ResultSrc: 00
+Time: 45000 | PC:          8 | INSN: 00202223 | ALU_Out:          4 | RegWrite: 0 | ResultSrc: xx
+Time: 55000 | PC:         12 | INSN: 00002083 | ALU_Out:          0 | RegWrite: 1 | ResultSrc: 01
+Time: 65000 | PC:         16 | INSN: fe000ae3 | ALU_Out:          0 | RegWrite: 0 | ResultSrc: xx
+Time: 75000 | PC:          4 | INSN: 00108133 | ALU_Out:         84 | RegWrite: 1 | ResultSrc: 00
+Time: 85000 | PC:          8 | INSN: 00202223 | ALU_Out:          4 | RegWrite: 0 | ResultSrc: xx
+Time: 95000 | PC:         12 | INSN: 00002083 | ALU_Out:          0 | RegWrite: 1 | ResultSrc: 01
+Time: 105000 | PC:         16 | INSN: fe000ae3 | ALU_Out:          0 | RegWrite: 0 | ResultSrc: xx
+$finish called at time : 115 ns : File "/home/pc-10/Desktop/single_cycle_RISC_V/single_cycle_RISC_V.srcs/sim_1/new/top_tb.sv" Line 37
